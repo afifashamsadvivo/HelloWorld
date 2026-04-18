@@ -1,4 +1,4 @@
-# HelloWorld
+# Hello, World!
 
 A comprehensive Hello World application repository designed for testing, learning, and deployment purposes.
 
